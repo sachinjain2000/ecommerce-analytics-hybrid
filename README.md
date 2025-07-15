@@ -22,8 +22,9 @@ I started by generating a synthetic dataset that includes user, session, and pro
 
 I wanted to better understand how businesses can use AI and data systems that combine real-time processing with strategic offline analysis. This project gave me the chance to work across the full stack — from data ingestion and stream processing to model building and visualization.
 
+
 It also helped me explore tools like Kafka, Flink, Redis, and SHAP, while applying concepts like differential privacy and session-based recommendations in a practical way.
 
-![Workflow](images/workflow.png)
+![Workflow](workflow.png)
 
-![Stack](images/stack.png)
+![Stack](stack.png)
